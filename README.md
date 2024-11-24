@@ -26,6 +26,5 @@
 # 📷 Screenshots
 
 
-<img src="https://github.com/user-attachments/assets/c15dc6a9-7de8-4876-bb6d-32d732a4d959">
-<img src="https://github.com/user-attachments/assets/a9c83269-4bc9-40e7-8569-ffedab1a1914">
-
+![c15dc6a9-7de8-4876-bb6d-32d732a4d959](https://github.com/user-attachments/assets/1217f79f-2483-46b9-b5d1-976d43b908ee)
+![изображение](https://github.com/user-attachments/assets/9a8a5e39-ed8b-4855-bc09-a6532e31118f)
