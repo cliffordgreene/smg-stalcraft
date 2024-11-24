@@ -1,6 +1,6 @@
 
  <p align="center">
-#### 🍒 SMG - Working private software on Stalcraft. Its main form is the function of players light through walls and objects and easy search for artifacts. Get an advantage in the battle on the wastelands of Stalcraft today without blocking with a full guarantee of security!
+🍒 SMG - Working private software on Stalcraft. Its main form is the function of players light through walls and objects and easy search for artifacts. Get an advantage in the battle on the wastelands of Stalcraft today without blocking with a full guarantee of security!
   </p>
 
  <p align="center">
